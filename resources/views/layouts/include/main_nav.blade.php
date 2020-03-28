@@ -9,10 +9,10 @@
             <i class="menu-caret zmdi zmdi-hc-sm zmdi-chevron-right"></i>
           </a>
           <ul class="submenu">
-            <li><a href="index.html"><span class="menu-text">View All</span></a></li>
-            <li><a href="dashboard.2.html"><span class="menu-text">Add New</span></a></li>
-            <li><a href="dashboard.3.html"><span class="menu-text">Media</span></a></li>
-            <li><a href="dashboard.3.html"><span class="menu-text">Categories</span></a></li>
+            <li><a href="{{ url('/view-all-content') }}"><span class="menu-text">View All</span></a></li>
+            <li><a href="{{ url('/add-new-page') }}"><span class="menu-text">Add New</span></a></li>
+            <li><a href="{{ url('/media-module') }}"><span class="menu-text">Media</span></a></li>
+            <li><a href="{{ url('/categories-module') }}"><span class="menu-text">Categories</span></a></li>
           </ul>
         </li>
       </ul><!-- .app-menu -->

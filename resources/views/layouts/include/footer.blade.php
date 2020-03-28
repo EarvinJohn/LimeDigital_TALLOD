@@ -1,4 +1,4 @@
-  <footer class="app-footer">
+<!--   <footer class="app-footer">
       <div class="clearfix">
         <ul class="footer-menu pull-right">
           <li><a href="javascript:void(0)">Careers</a></li>
@@ -7,4 +7,4 @@
         </ul>
         <div class="copyright pull-left">Copyright RaThemes 2016 &copy;</div>
       </div>
-    </footer>
+    </footer> -->
